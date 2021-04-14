@@ -17,10 +17,10 @@
     3. what input, output needed?
     4. don't code. paper & algorithm is your best friend
     5. code
-      - inside coding process
-        1. dom selection & variable declaration
-        2. event listeners & function outlining
-        3. function declaration
+        - inside coding process
+            1. dom selection & variable declaration
+            2. event listeners & function outlining
+            3. function declaration
     6. refactor
 - to convert str to int in JS, you can just use +
 - e.target
@@ -38,4 +38,3 @@
 - be more conscious about how are you going to wrap things around with div boxes
 - you can use lists to bind similar elements together
 - html & css is closely related
-- 
